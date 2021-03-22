@@ -7,7 +7,8 @@
 	"scripts": {
 		"start": "dev-scripts start",
 		"build": "dev-scripts build",
-		"test": "dev-scripts test"
+		"test": "dev-scripts test",
+		"prepare": "husky install"
 	},
 	"husky": {
 		"hooks": {
